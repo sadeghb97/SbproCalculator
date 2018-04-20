@@ -1,0 +1,9 @@
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\SBPro Calculator.exe.config
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\SBPro Calculator.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\SBPro Calculator.pdb
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.aboutForm.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.frmmain.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\SBPro Calculator.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\SBPro Calculator.pdb

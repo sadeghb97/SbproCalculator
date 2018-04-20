@@ -1,0 +1,11 @@
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App3-5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmain.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.aboutForm.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SBPro Calculator.exe.config
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SBPro Calculator.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SBPro Calculator.pdb
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SBPro Calculator.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 1\App4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\SBPro Calculator.pdb
